@@ -34,5 +34,11 @@ A prompt generation website, that provides the user with prompts from different 
 
 The screenshots for this project are available in the `app-screenshots` folder.
 
-## HOME PAGE:
+### HOME PAGE
 ![Promptopia Home Page](app-screenshots/promptopia-home-page.png)
+
+### CREATE POST PAGE
+![Promptopia - Create Post Page](app-screenshots/promptopia-create-post-page.png)
+
+### PROFILE PAGE
+![Promptopia - Profile Page](app-screenshots/promptopia-profile-page.png)

@@ -24,7 +24,7 @@ A prompt generation website, that provides the user with prompts from different 
    _d) Next Auth URL (website domain link)_<br>
    _e) Next Auth Internal URL (website domain link)_<br>
    _f) Next Auth Custom Secret key_<br><br>
-   You can generate your Next Auth Custom Secret key by visiting (https://www.cryptool.org/en/cto/openssl)[https://www.cryptool.org/en/cto/openssl] and entering the following command.<br>
+   You can generate your Next Auth Custom Secret key by visiting (https://www.cryptool.org/en/cto/openssl) and entering the following command.<br>
    `openssl rand -base64 32`<br><br>
    Copy the output key and paste it as your variable for **_f)_** above.
 

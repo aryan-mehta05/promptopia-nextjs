@@ -17,13 +17,13 @@ A prompt generation website, that provides the user with prompts from different 
 
 1. Clone this repository in a new project directory on your PC using `git clone https://github.com/aryan-mehta05/promptopia-nextjs.git`.
 2. Download and install all the dependencies required for this project using `npm install`.
-3. Configure your environment variables namely:
-   _a) Google Client ID_
-   _b) Google client Secret_
-   _c) MongoDB URI (from Atlas)_
-   _d) Next Auth URL (website domain link)_
-   _e) Next Auth Internal URL (website domain link)_
-   _f) Next Auth Custom Secret key_
+3. Configure your environment variables namely:<br>
+   _a) Google Client ID_<br>
+   _b) Google client Secret_<br>
+   _c) MongoDB URI (from Atlas)_<br>
+   _d) Next Auth URL (website domain link)_<br>
+   _e) Next Auth Internal URL (website domain link)_<br>
+   _f) Next Auth Custom Secret key_<br><br>
    You can generate your Next Auth Custom Secret key by visiting (https://www.cryptool.org/en/cto/openssl)[https://www.cryptool.org/en/cto/openssl] and entering the following command.
    `openssl rand -base64 32`
 

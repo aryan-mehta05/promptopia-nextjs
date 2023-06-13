@@ -33,3 +33,6 @@ A prompt generation website, that provides the user with prompts from different 
 ---
 
 The screenshots for this project are available in the `app-screenshots` folder.
+
+## HOME PAGE:
+![Promptopia Home Page](app-screenshots/promptopia-home-page.png)
